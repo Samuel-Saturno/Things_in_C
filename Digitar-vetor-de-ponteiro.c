@@ -9,7 +9,7 @@ int main(void){
   if (vetor == NULL){
     exit(1); //aborta execucao do programa
   } else {
-    printf("Alocacao realizada com sucesso");
+    printf("Alocacao realizada com sucesso\n");
   }
   // ler os dados do vetor
   
